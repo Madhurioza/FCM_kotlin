@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "554906803006",
+    "project_id": "messagin-kotlin",
+    "storage_bucket": "messagin-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554906803006:android:78237f67e0d060268eea6f",
+        "android_client_info": {
+          "package_name": "com.example.message_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554906803006-0ic6sduj36g35a59doh3a2m36q0gs9o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeAgBvE3BQOGXezHx5bSvSuUlj2SXiw1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554906803006-0ic6sduj36g35a59doh3a2m36q0gs9o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554906803006:android:7e39b2aeafae88868eea6f",
+        "android_client_info": {
+          "package_name": "com.example.messagin_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554906803006-0ic6sduj36g35a59doh3a2m36q0gs9o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeAgBvE3BQOGXezHx5bSvSuUlj2SXiw1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554906803006-0ic6sduj36g35a59doh3a2m36q0gs9o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
